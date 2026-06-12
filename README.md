@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Rayane%20Ilyes%20Belaid&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Intelligent%20Systems%20Builder&descAlignY=58&descColor=c4b5fd&animation=fadeIn" width="100%"/>
