@@ -479,7 +479,7 @@ Working towards meaningful contributions to AI/ML open source projects — start
 
 ## Current Focus
 
-```yaml
+
 Learning:
   - Advanced Transformer Architectures (BERT, GPT, T5, Vision Transformers)
   - Diffusion Models & Generative AI Systems
@@ -506,7 +506,7 @@ Open_To:
   - Research collaborations in NLP, CV, or Generative AI
   - Open source contributions to ML libraries and AI tooling
   - Engineering partnerships on intelligent systems projects
-```
+
 
 ---
 
@@ -536,4 +536,4 @@ Open_To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer&text=Building%20the%20Future%20of%20AI%2C%20One%20System%20at%20a%20Time&fontSize=16&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
-```
+
